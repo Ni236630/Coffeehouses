@@ -1,0 +1,16 @@
+.list{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shop{
+  border: 1px dotted black;
+  text-align: center;
+  /* justify-content: space-between; */
+  flex-basis: 30%;
+  margin: auto;
+  
+}
+p {
+  text-align: center;
+}
